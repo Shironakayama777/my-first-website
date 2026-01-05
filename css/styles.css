@@ -229,7 +229,7 @@ width: 80%;
 .contact .row {
   display: flex;
   margin-top: 2rem;
-  background-color: #ff0000ff;
+  background-color: #222;
 }
 
 .contact .row .map {
@@ -249,7 +249,7 @@ width: 80%;
   align-items: center;
   margin-top: 2rem;
   background-color: var(--bg);
-  border-radius: 1px solid #000000;
+  border-radius: 1px solid #eee;
   padding-left: 2rem;
 }
 
